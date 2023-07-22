@@ -1,7 +1,7 @@
-![Header](https://github.com/MrUmid2oo4/malikovumid/blob/main/assets/header.png)
+![Header](https://github.com/MrUmid2oo4/mrumid2oo4/blob/main/assets/header.png)
 
 <div align="center">
-<img  src="https://github.com/MrUmid2oo4/malikovumid/blob/main/assets/animation.gif" width="50%"/>
+<img  src="https://github.com/MrUmid2oo4/mrumid2oo4/blob/main/assets/animation.gif" width="50%"/>
 </div>
 
 
@@ -17,7 +17,7 @@
 
 <div align="center">
     <br/>
-        <a  href=""><img src="https://github.com/MrUmid2oo4/malikovumid/blob/main/assets/12.png"/></a> 
+        <a  href=""><img src="https://github.com/MrUmid2oo4/mrumid2oo4/blob/main/assets/12.png"/></a> 
    <p>
     <br /> 
    </p> 
