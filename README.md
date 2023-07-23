@@ -46,11 +46,11 @@
 <h1 align="center"> Follow Me </h1>
 <div align="center">
 
-![steam](https://img.shields.io/badge/-steam-090909?style=for-the-badge&logo=steam&logoColor=0077b6 (https://steamcommunity.com/id/um1x31/))()
-![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram (https://t.me/mr_um1x))
-![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)()
-![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord (https://discord.com/channels/@umid4669))
-![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=00a6fb)
+[![steam](https://img.shields.io/badge/-steam-090909?style=for-the-badge&logo=steam&logoColor=0077b6 )](https://steamcommunity.com/id/um1x31/)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/mr_um1x)
+[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/um_1x?igshid=NTc4MTIwNjQ2YQ==)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/channels/@umid4669)
+[![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=00a6fb)]()
 
 </div>
 
