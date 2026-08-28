@@ -3,17 +3,17 @@
 <!--══════════════════════════════════════════════════════
   HERO HEADER — Animated Wave Header
 ══════════════════════════════════════════════════════-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,25:4FACFE,50:7928CA,75:c026d3,100:FF007F&height=240&section=header&text=UMID&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,25:4FACFE,50:7928CA,75:c026d3,100:FF007F&height=250&section=header&text=UMID&fontSize=85&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <!--── Dynamic Typing Subtitle ─────────────────────────-->
 <a href="https://github.com/MrUmid2oo4">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=720&height=55&lines=🎮+Unity+3D+Game+Developer+%26+C%23+Architect;🌐+Full-Stack+Engineer+%7C+React+•+Next.js+•+Node;✨+Real-time+Graphics+%7C+WebGL+%26+HLSL+Shaders;🚀+Shipping+games+%26+web+apps+that+people+love;☕+Turning+coffee+into+production-ready+code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=720&height=55&lines=%F0%9F%8E%AE+Unity+3D+Game+Developer+%26+C%23+Architect;%F0%9F%8C%90+Full-Stack+Engineer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Node;%E2%9C%A8+Real-time+Graphics+%7C+WebGL+%26+HLSL+Shaders;%F0%9F%9A%80+Shipping+games+%26+web+apps+that+people+love;%E2%98%95+Turning+coffee+into+production-ready+code" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <!--── Animated Character ──────────────────────────────-->
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Developer Coding"/>
+<img src="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/main/assets/animation.gif" width="280" alt="Developer Coding"/>
 
 <br/>
 
@@ -42,7 +42,7 @@
 <tr>
 <td valign="top" width="56%">
 
-### 👨‍💻 &nbsp;`// System Info`
+### 👨‍💻 &nbsp;`// System Profile`
 
 ```javascript
 const umid = {
@@ -309,33 +309,9 @@ Cozy atmospheric barista simulator developed in Unity 3D with authentic coffee b
   LIVE METRICS & STATS
 ══════════════════════════════════════════════════════-->
 
-<h2 align="center">📊 &nbsp;Live GitHub Telemetry</h2>
+<h2 align="center">📊 &nbsp;Live GitHub Telemetry &amp; Infographics</h2>
 
 <div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrUmid2oo4&theme=tokyo-night&bg_color=0d1117&color=00F2FE&line=FF007F&point=c026d3&area=true&hide_border=true&radius=16" width="100%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- Stats Row -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MrUmid2oo4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=FF007F&text_color=c9d1d9&border_radius=16" width="100%" alt="Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUmid2oo4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9&border_radius=16&langs_count=8" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=MrUmid2oo4&theme=tokyonight&hide_border=true&background=0d1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&border_radius=16" width="100%" alt="Streak Stats"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <!-- Full Lowlighter Metrics Infographic Card -->
 <img src="./github-metrics.svg" alt="GitHub Metrics Infographic" width="100%"/>
