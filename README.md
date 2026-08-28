@@ -1,9 +1,9 @@
-﻿<div align="center">
+<div align="center">
 
 <!--══════════════════════════════════════════════════════
   HERO — Animated Capsule Header
 ══════════════════════════════════════════════════════-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D0221,25:0A1045,50:1a0533,75:0d0b2b,100:050010&height=280&section=header&text=UMID&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%26%20Full-Stack%20Engineer&descSize=20&descAlignY=60&descColor=8B5CF6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D0221,25:0A1045,50:1a0533,75:0d0b2b,100:050010&height=280&section=header&text=UMID&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Full-Stack%20Engineer&descSize=20&descAlignY=60&descColor=8B5CF6&animation=fadeIn" width="100%"/>
 
 <!--── Typing Subtitle ────────────────────────────────-->
 <a href="https://github.com/MrUmid2oo4">
