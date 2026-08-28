@@ -1,83 +1,94 @@
 <div align="center">
 
-<!--══════════════════════════════════════
-    ANIMATED HERO HEADER
-══════════════════════════════════════-->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0:00F2FE,25:4FACFE,50:7928CA,75:c026d3,100:FF007F&height=280&section=header&text=UMID&fontSize=100&fontColor=ffffff&fontAlignY=55&animation=blink&desc=Unity%20Game%20Dev%20%7C%20Full%E2%80%91Stack%20Web%20Engineer&descSize=22&descAlignY=75&descAlign=50" width="100%"/>
+<!--══════════════════════════════════════════════════════
+  HERO HEADER — Animated Wave Header
+══════════════════════════════════════════════════════-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,25:4FACFE,50:7928CA,75:c026d3,100:FF007F&height=240&section=header&text=UMID&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+
+<!--── Dynamic Typing Subtitle ─────────────────────────-->
+<a href="https://github.com/MrUmid2oo4">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=720&height=55&lines=🎮+Unity+3D+Game+Developer+%26+C%23+Architect;🌐+Full-Stack+Engineer+%7C+React+•+Next.js+•+Node;✨+Real-time+Graphics+%7C+WebGL+%26+HLSL+Shaders;🚀+Shipping+games+%26+web+apps+that+people+love;☕+Turning+coffee+into+production-ready+code" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<!-- TYPING SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&random=false&width=700&height=60&lines=🎮+Crafting+immersive+worlds+in+Unity+3D;⚡+Engineering+blazing-fast+web+apps;✨+Writing+shaders+%26+real-time+graphics;🚀+Turning+coffee+into+code+since+day+1;💜+Passionate+about+clean+architecture" alt="Typing SVG" />
+<!--── Animated Character ──────────────────────────────-->
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Developer Coding"/>
 
 <br/>
 
-<!-- ANIMATED CHARACTER GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer at Work"/>
-
-<br/>
-
-<!-- VISITOR / STATUS BADGES -->
-<p>
+<!--── HUD Status Badges ───────────────────────────────-->
+<p align="center">
   <a href="https://github.com/MrUmid2oo4">
-    <img src="https://komarev.com/ghpvc/?username=MrUmid2oo4&label=👁️+Profile+Visitors&color=00F2FE&style=for-the-badge" alt="Visitors"/>
+    <img src="https://komarev.com/ghpvc/?username=MrUmid2oo4&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/🕹️_Game_Dev-Unity_3D-00c896?style=for-the-badge" alt="Unity"/>
+  <img src="https://img.shields.io/badge/UNITY_3D-EXPERT-00c896?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🌐_Web-Full_Stack-7928CA?style=for-the-badge" alt="Fullstack"/>
+  <img src="https://img.shields.io/badge/FULL--STACK-ENGINEER-7928CA?style=for-the-badge&logo=react&logoColor=white" alt="Fullstack"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Status-Always_Building-FF007F?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/STATUS-SHIPPING%20%F0%9F%9A%80-FF007F?style=for-the-badge" alt="Status"/>
 </p>
 
 </div>
 
 ---
 
-<!--══════════════════════════════════════
-    ABOUT ME — SPLIT LAYOUT
-══════════════════════════════════════-->
+<!--══════════════════════════════════════════════════════
+  ABOUT ME — System Matrix
+══════════════════════════════════════════════════════-->
 
 <table align="center" width="100%" border="0">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="56%">
 
-### 🧙‍♂️ &nbsp;Who am I?
+### 👨‍💻 &nbsp;`// System Info`
 
 ```javascript
 const umid = {
-  name:      "Umid",
-  handle:    "@MrUmid2oo4",
-  location:  "Earth 🌍",
-  roles:     ["Unity Game Dev", "Full-Stack Engineer"],
-  stack: {
-    game:    ["Unity", "C#", "HLSL Shaders", "WebGL"],
-    front:   ["React", "Next.js", "TypeScript", "Vue"],
-    back:    ["Node.js", "NestJS", "ASP.NET Core"],
-    db:      ["PostgreSQL", "MongoDB", "Redis"],
-    tools:   ["Docker", "Git", "Figma", "Rider"],
+  name:     "Umid",
+  handle:   "@MrUmid2oo4",
+  roles:    ["Unity Game Dev 🎮", "Full-Stack Engineer 🌐"],
+  game: {
+    engine:   "Unity 3D / 2D",
+    language: "C# / HLSL",
+    focus:    ["URP Shaders", "Physics", "WebGL"],
   },
-  passions:  ["Clean Code 🛡️", "Pixel-Perfect UI 🎨",
-              "Real-time 3D ✨", "System Design 📐"],
-  fun_fact:  "I ship games and web apps. Both run at 60 fps.",
+  web: {
+    front:    ["React", "Next.js 15", "TypeScript", "Vue 3"],
+    back:     ["Node.js", "NestJS", "ASP.NET Core"],
+    db:       ["PostgreSQL", "MongoDB", "Redis"],
+  },
+  shipped_projects: [
+    "🌐 tugunhub.uz      — Developer Community Platform",
+    "🛒 tugunstore.uz    — Indie Game Store & Jam Hub",
+    "☕ mikocoffee.site  — Unity Coffee Simulator Landing",
+  ],
+  fun_fact: "I debug at 2 AM with lo-fi & green tea 🍵",
 };
 ```
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="44%">
 
-### ⚔️ &nbsp;What I'm up to
+### 🎯 &nbsp;`// Current Quests`
 
-- 🔭 &nbsp;Building a **3D multiplayer game** in Unity
-- 🌱 &nbsp;Exploring **Next.js 15 + App Router** patterns
-- 🎮 &nbsp;Deep-diving **HLSL shaders** & URP rendering
-- 💬 &nbsp;Ask me about **Unity, React, Node.js, C#**
-- ⚡ &nbsp;Fun fact: I debug at 2 AM with lo-fi music
-- 🏆 &nbsp;Goal: ship something every month
+- 🔭 &nbsp;Building **3D multiplayer mechanics** in Unity
+- 🌱 &nbsp;Mastering **Next.js 15 Server Actions** & modern UI
+- 🎮 &nbsp;Deep-diving **HLSL / URP Shaders & VFX Graph**
+- 💬 &nbsp;Ask me about **Unity · React · Node.js · C#**
+- 🚀 &nbsp;Mission: Ship immersive & scalable products
 
 <br/>
 
-> *"Code is poetry. Games are worlds. I create both."*
+### 🏅 &nbsp;`// Quick Stats`
+
+| Specialization | Focus Level |
+|----------------|-------------|
+| 🎮 Unity Game Dev | `★★★★★` |
+| 🌐 Full-Stack Web | `★★★★★` |
+| ⚡ Shaders & WebGL | `★★★★☆` |
+| 🗄️ Database & Cloud | `★★★★☆` |
 
 </td>
 </tr>
@@ -85,120 +96,208 @@ const umid = {
 
 ---
 
-<!--══════════════════════════════════════
-    SKILL TREE — ANIMATED ICONS
-══════════════════════════════════════-->
+<!--══════════════════════════════════════════════════════
+  TECH ARSENAL
+══════════════════════════════════════════════════════-->
 
-<h2 align="center">🛠️ &nbsp;Tech Arsenal — Weapons of Choice</h2>
+<h2 align="center">🛠️ &nbsp;Tech Arsenal &amp; Skill Tree</h2>
 
 <div align="center">
 
-#### 🎮 Game Development & Real-time 3D
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,threejs,opengl&theme=dark&perline=5"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Unity_Engine-222C37?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23_Scripting-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/HLSL_%26_URP_Shaders-FF5722?style=for-the-badge&logo=opengl&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-
-<br/><br/>
-
-#### 🌐 Frontend Engineering & UI
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&theme=dark&perline=8"/>
-</a>
+#### 🎮 Game Development &amp; Real-time 3D
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,blender,threejs&theme=dark"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity_Engine-222C37?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HLSL_/_Shaders-FF5722?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript_ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<br/><br/>
-
-#### ⚙️ Backend, APIs & Databases
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,graphql,postgres,mongodb,redis&theme=dark&perline=8"/>
-</a>
+#### 🌐 Frontend Engineering &amp; UI
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&theme=dark"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+#### ⚙️ Backend, APIs &amp; Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,graphql,postgres,mongodb,redis&theme=dark"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
-<br/><br/>
+<br/>
 
-#### 🧰 Tools, DevOps & Environment
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,rider,vscode,linux&theme=dark&perline=8"/>
-</a>
+#### 🧰 Tools &amp; Environment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,rider,vscode,linux&theme=dark"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-<!--══════════════════════════════════════
-    FEATURED PROJECTS
-══════════════════════════════════════-->
+<!--══════════════════════════════════════════════════════
+  FEATURED PROJECTS WITH PREVIEW CARDS
+══════════════════════════════════════════════════════-->
 
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
 <div align="center">
+<p><i>Live production projects & games I've developed:</i></p>
+</div>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MrUmid2oo4">
-        <img src="https://img.shields.io/badge/🎮_Unity_3D_Game-Play_Now-00c896?style=for-the-badge" alt="Unity Game"/>
-      </a>
-      <br/><br/>
-      <b>🎮 Unity Multiplayer Project</b><br/>
-      <sub>3D real-time multiplayer built in Unity with C# &amp; Netcode for GameObjects. Custom URP shaders, physics-based interactions and procedural world generation.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HLSL-FF5722?style=flat-square"/>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MrUmid2oo4">
-        <img src="https://img.shields.io/badge/🌐_Web_App-Live_Demo-7928CA?style=for-the-badge" alt="Web App"/>
-      </a>
-      <br/><br/>
-      <b>🌐 Full-Stack Web Platform</b><br/>
-      <sub>Modern full-stack app built with Next.js 15, TypeScript, NestJS backend, PostgreSQL and Redis caching. Real-time features via WebSockets.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
+<br/>
+
+<!--── Project 1: TugunHub ─────────────────────────────-->
+<table align="center" width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [TugunHub](https://tugunhub.uz/)
+**Developer Community & Tech Platform**
+
+Social hub for developers to publish technical articles, discuss architecture, build reputation, and share experiences.
+
+- ⚡ Modern UI & responsive design
+- 🔐 Auth, user profiles & article publishing
+- 💬 Real-time discussion & comments
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+<a href="https://tugunhub.uz/">
+  <img src="https://img.shields.io/badge/Visit_Site-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+</td>
+<td width="50%" valign="middle" align="center">
+<a href="https://tugunhub.uz/">
+  <img src="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/main/assets/preview_tugunhub.png" width="100%" alt="TugunHub Preview"/>
+</a>
+</td>
+</tr>
 </table>
 
-</div>
+<br/>
+
+<!--── Project 2: TugunStore ──────────────────────────-->
+<table align="center" width="100%" border="0">
+<tr>
+<td width="50%" valign="middle" align="center">
+<a href="https://tugunstore.uz/app">
+  <img src="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/main/assets/preview_tugunstore.png" width="100%" alt="TugunStore Preview"/>
+</a>
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [TugunStore](https://tugunstore.uz/app)
+**Indie Game Store & Game Jam Platform**
+
+Digital distribution platform for indie games and online game jam organizer. Players can discover, download, and rate indie creations.
+
+- 🎮 Game catalog with tags & categories
+- 🏆 Game jam event hosting & submissions
+- ⚡ Fast Next.js app architecture
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+<a href="https://tugunstore.uz/app">
+  <img src="https://img.shields.io/badge/Open_Store-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!--── Project 3: MikoCoffee ──────────────────────────-->
+<table align="center" width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+
+### ☕ [MikoCoffee](https://www.mikocoffee.site/)
+**Unity 3D Coffee Shop Simulator Game**
+
+Cozy atmospheric barista simulator developed in Unity 3D with authentic coffee brewing mechanics, recipe creation, and charming art style.
+
+- ☕ Realistic barista brewing mechanics
+- 🎨 Anime-styled visual design & soundtrack
+- 🎮 Built for Steam distribution
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Unity_3D-222C37?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HLSL_Shaders-FF5722?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Steam-Coming_Soon-000000?style=flat-square&logo=steam&logoColor=white"/>
+</p>
+
+<a href="https://www.mikocoffee.site/">
+  <img src="https://img.shields.io/badge/Game_Website-FF007F?style=for-the-badge&logo=unity&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="middle" align="center">
+<a href="https://www.mikocoffee.site/">
+  <img src="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/main/assets/preview_mikocoffee.png" width="100%" alt="MikoCoffee Preview"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-<!--══════════════════════════════════════
-    GITHUB TROPHIES
-══════════════════════════════════════-->
+<!--══════════════════════════════════════════════════════
+  GITHUB TROPHIES
+══════════════════════════════════════════════════════-->
 
-<h2 align="center">🏆 &nbsp;Achievements & Trophies</h2>
+<h2 align="center">🏆 &nbsp;GitHub Achievements &amp; Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrUmid2oo4&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="Trophies" width="100%"/>
@@ -206,24 +305,24 @@ const umid = {
 
 ---
 
-<!--══════════════════════════════════════
-    LIVE METRICS & STATS
-══════════════════════════════════════-->
+<!--══════════════════════════════════════════════════════
+  LIVE METRICS & STATS
+══════════════════════════════════════════════════════-->
 
 <h2 align="center">📊 &nbsp;Live GitHub Telemetry</h2>
 
 <div align="center">
 
-<!-- Activity Graph (Bezier wave) -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrUmid2oo4&theme=tokyo-night&bg_color=0d1117&color=00F2FE&line=FF007F&point=c026d3&area=true&hide_border=true&radius=16" width="100%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<!-- Dual Stats Row -->
+<!-- Stats Row -->
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MrUmid2oo4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=FF007F&text_color=c9d1d9&border_radius=16&count_private=true" width="100%" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MrUmid2oo4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=FF007F&text_color=c9d1d9&border_radius=16" width="100%" alt="Stats"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUmid2oo4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9&border_radius=16&langs_count=8" width="100%" alt="Top Languages"/>
@@ -231,49 +330,47 @@ const umid = {
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrUmid2oo4&theme=tokyonight&hide_border=true&background=0d1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&border_radius=16" width="100%" alt="Streak Stats"/>
+      <img src="https://streak-stats.demolab.com/?user=MrUmid2oo4&theme=tokyonight&hide_border=true&background=0d1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE&border_radius=16" width="100%" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Lowlighter Metrics Infographic -->
-<img src="./github-metrics.svg" alt="Metrics Infographic" width="100%"/>
+<!-- Full Lowlighter Metrics Infographic Card -->
+<img src="./github-metrics.svg" alt="GitHub Metrics Infographic" width="100%"/>
 
 </div>
 
 ---
 
-<!--══════════════════════════════════════
-    SNAKE CONTRIBUTION ANIMATION
-══════════════════════════════════════-->
+<!--══════════════════════════════════════════════════════
+  SNAKE ANIMATION
+══════════════════════════════════════════════════════-->
 
 <h2 align="center">🐍 &nbsp;Contribution Snake</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrUmid2oo4/MrUmid2oo4/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrUmid2oo4/MrUmid2oo4/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/MrUmid2oo4/MrUmid2oo4/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 ---
 
-<!--══════════════════════════════════════
-    CONNECT — SOCIAL HUB
-══════════════════════════════════════-->
+<!--══════════════════════════════════════════════════════
+  SOCIAL HUB
+══════════════════════════════════════════════════════-->
 
 <h2 align="center">📡 &nbsp;Connect With Me</h2>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave"/>
-
-<p><b>Always open to interesting projects, collabs and tech chats 👋</b></p>
-
-<br/>
+<p align="center">
+  <b>Looking for game development collaborations, web engineering projects, or tech discussions? Connect with me:</b>
+</p>
 
 <a href="https://t.me/mr_um1x" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@mr__um1x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -291,16 +388,9 @@ const umid = {
   <img src="https://img.shields.io/badge/Instagram-@um__1x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<!--══════════════════════════════════════
-    ANIMATED FOOTER
-══════════════════════════════════════-->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF007F,25:c026d3,50:7928CA,75:4FACFE,100:00F2FE&height=160&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF007F,25:c026d3,50:7928CA,75:4FACFE,100:00F2FE&height=140&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
