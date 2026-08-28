@@ -291,17 +291,6 @@ Cozy atmospheric barista simulator developed in Unity 3D with authentic coffee b
 </tr>
 </table>
 
----
-
-<!--══════════════════════════════════════════════════════
-  GITHUB TROPHIES
-══════════════════════════════════════════════════════-->
-
-<h2 align="center">🏆 &nbsp;GitHub Achievements &amp; Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrUmid2oo4&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="Trophies" width="100%"/>
-</div>
 
 ---
 
