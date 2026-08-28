@@ -12,6 +12,11 @@
 
 <br/>
 
+<!--── Animated Character ──────────────────────────────-->
+<img src="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/main/assets/animation.gif" width="240" alt="Developer Coding"/>
+
+<br/>
+
 <!--── Profile Badges ──────────────────────────────────-->
 <p>
   <a href="https://github.com/MrUmid2oo4">
@@ -82,11 +87,11 @@ const umid = {
 
 <br/>
 
-🔭 &nbsp;**3D Multiplayer** in Unity (Netcode)
-🌱 &nbsp;Mastering **Next.js 15** & Server Actions
-🎨 &nbsp;Deep-diving **HLSL · VFX Graph · URP**
-🚢 &nbsp;Shipping games via **TugunStore.uz**
-💡 &nbsp;Open to **collabs** & interesting projects
+🔭 &nbsp;**3D Multiplayer** in Unity (Netcode)  
+🌱 &nbsp;Mastering **Next.js 15** & Server Actions  
+🎨 &nbsp;Deep-diving **HLSL · VFX Graph · URP**  
+🚢 &nbsp;Shipping games via **TugunStore.uz**  
+💡 &nbsp;Open to **collabs** & interesting projects  
 
 <br/>
 
@@ -175,19 +180,7 @@ const umid = {
 ---
 
 <!--══════════════════════════════════════════════════════
-  GITHUB TROPHIES
-══════════════════════════════════════════════════════-->
-
-<h2 align="center">🏆 &nbsp;GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrUmid2oo4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
-
-<!--══════════════════════════════════════════════════════
-  GITHUB STATS
+  GITHUB STATS — High Availability Mirror
 ══════════════════════════════════════════════════════-->
 
 <h2 align="center">📊 &nbsp;GitHub Analytics</h2>
@@ -195,16 +188,11 @@ const umid = {
 <div align="center">
 
 <a href="https://github.com/MrUmid2oo4">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrUmid2oo4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&ring_color=8B5CF6&count_private=true" alt="GitHub Stats"/>
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=MrUmid2oo4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&ring_color=8B5CF6&count_private=true" alt="GitHub Stats"/>
 </a>
+&nbsp;
 <a href="https://github.com/MrUmid2oo4">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUmid2oo4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MrUmid2oo4&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=6366F1&dates=c9d1d9" alt="GitHub Streak" width="60%"/>
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrUmid2oo4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -332,10 +320,10 @@ Cozy atmospheric barista simulator — authentic brewing mechanics, anime art st
   LIVE METRICS SVG
 ══════════════════════════════════════════════════════-->
 
-<h2 align="center">📈 &nbsp;Live Activity Metrics</h2>
+<h2 align="center">📈 &nbsp;Live Activity &amp; Achievements</h2>
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics Infographic" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MrUmid2oo4/mrumid2oo4/main/github-metrics.svg" alt="GitHub Metrics Infographic" width="100%"/>
 </div>
 
 ---
